@@ -201,3 +201,4 @@ else:
 # DEBUG (pode remover depois)
 # ---------------------------------------------------------
 st.write("DEBUG — Colunas da FATO:", list(df_base.columns))
+
